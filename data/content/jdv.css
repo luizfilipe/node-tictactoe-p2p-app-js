@@ -1,0 +1,19 @@
+body {
+  font-family: "Monaco";
+  background-color: white;
+}
+
+#table {
+	width: 306px;
+	border: 1px solid black;
+	height: 305px;
+}
+
+#table div {
+	font-size: 50pt;
+	text-align: center;
+	float: left;
+	height: 100px;
+	width: 100px;
+	border: 1px solid red;
+}
