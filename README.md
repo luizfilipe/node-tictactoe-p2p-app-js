@@ -1,4 +1,4 @@
-#A p2p Tic Tac Toe built in AppJS
+#A P2P tic tac toe game built in AppJS
 
 For more information about AppJS and AppJS Licensing see: https://github.com/appjs/appjs
 
