@@ -1,17 +1,16 @@
-node-tictactoe-p2p-app-js
-=========================
+#A p2p Tic Tac Toe built in AppJS
 
-#Tic Tac Toe P2P with Node.js and App.js
-
-
-For more information about app.js see: 
+For more information about AppJS and AppJS Licensing see: https://github.com/appjs/appjs
 
 All aplication is built on node.js
 See **data/content** folder to see the implementations of p2p with node.js sockets and tictactoe in js.
 
 Next steps:
 
-Build an localhost CPU player with minimax IA 
+  Build an localhost CPU player with minimax IA 
+  Updata AppJS
+
+These license information below is only applied at **data/content** scripts and assets
 
 #License
 
