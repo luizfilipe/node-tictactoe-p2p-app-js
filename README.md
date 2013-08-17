@@ -7,7 +7,7 @@ node-tictactoe-p2p-app-js
 For more information about app.js see: 
 
 All aplication is built on node.js
-See **content** folder to see the implementations of p2p with node.js sockets and tictactoe in js.
+See **data/content** folder to see the implementations of p2p with node.js sockets and tictactoe in js.
 
 Next steps:
 
