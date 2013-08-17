@@ -7,7 +7,7 @@ See **data/content** folder to see the implementations of p2p with node.js socke
 
 Next steps:
 
-  * Build an localhost CPU player with minimax IA 
+  * Build an localhost CPU player with minimax AI 
   * Update AppJS
 
 These license information below is only applied at **data/content** scripts and assets
