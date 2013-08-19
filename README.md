@@ -10,8 +10,7 @@ Next steps:
   * Build an localhost CPU player with minimax AI 
   * Update AppJS
 
-These license information below is only applied at **data/content** scripts and assets
-
+These license information below is only applied at **data/content** scripts and assets (except jquery.js and icons folder) 
 #License
 
 Copyright 2012 Luiz Filipe and Hugo
