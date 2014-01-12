@@ -8,7 +8,8 @@ See **data/content** folder to see the implementations of p2p with node.js socke
 Next steps:
 
   * Build an localhost CPU player with minimax AI 
-  * Update AppJS
+  * Update AppJS or change or port to [deskshelll](https://github.com/sihorton/appjs-deskshell/)
+  * Build an chat between p2p clients.
 
 These license information below is only applied at **data/content** scripts and assets (except jquery.js and icons folder) 
 
