@@ -36,7 +36,7 @@ window.on('ready', function () {
 
   var game = window.requireComponent('./content/game');
   var connections = window.requireComponent('./content/connections');
-
+  var tableDiv = $('.div');
   var actions = {
     reset: function () {
       var conn = connections.connection;
@@ -45,7 +45,7 @@ window.on('ready', function () {
         conn.destroy();
         connections.resetConnection();
       }
-      $('#table div').text('');
+      tableDiv.text('');
       $('#connInfo').text('');
       $('#winner').text('');
     },
@@ -77,13 +77,13 @@ window.on('ready', function () {
     actions.reset();
   });
 
-  $('#table div').hover(function () {
+  tableDiv.hover(function () {
     $(this).css('background-color', 'red');
   }, function () {
     $(this).removeAttr('style');
   });
 
-  $('#table div').click(function () {
+  tableDiv.click(function () {
     var text = $(this).text();
     var playerType = game.player.type;
     var playerTurn = game.player.turn;

@@ -1,0 +1,29 @@
+{
+  "name": "tictactoejs",
+  "version": "0.0.1",
+  "description": "A peer-to-peer tictactoe game with appjs",
+  "main": "app.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://luizfilipe@github.com/luizfilipe/tictactoejs.git"
+  },
+  "keywords": [
+    "tictactoe",
+    "game",
+    "javascript",
+    "peer-to-peer"
+  ],
+  "private": true,
+  "contributors": [
+    "Luiz Filipe Freitas Carneiro <luizfilipefc@gmail.com> (https://github.com/luizfilipe)",
+    "Hugo Freitas Carneiro <hugufc@gmail.com> https://github.com/hugufc"
+  ],
+  "license": "LFFC Soluções Tecnológicas",
+  "bugs": {
+    "url": "https://github.com/luizfilipe/tictactoejs/issues"
+  },
+  "homepage": "https://tictactoe.game"
+}
