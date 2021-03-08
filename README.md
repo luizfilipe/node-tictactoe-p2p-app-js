@@ -1,4 +1,4 @@
-#A P2P tic tac toe game built in AppJS
+# A P2P tic tac toe game built in AppJS
 
 For more information about AppJS and AppJS Licensing see: https://github.com/appjs/appjs
 
@@ -13,7 +13,7 @@ Next steps:
 
 These license information below is only applied at **data/content** scripts and assets (except jquery.js and icons folder) 
 
-#License
+# License
 
 Copyright 2012 Luiz Filipe and Hugo
 
